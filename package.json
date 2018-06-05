@@ -1,7 +1,7 @@
 {
   "name": "grunt-injector",
   "description": "Inject references to files into other files (think scripts and stylesheets into an html file)",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage": "https://github.com/klei/grunt-injector",
   "author": {
     "name": "Joakim Carlstein",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/klei/grunt-injector.git"
+    "url": "git://github.com/mvberg/grunt-injector.git"
   },
   "bugs": {
-    "url": "https://github.com/klei/grunt-injector/issues"
+    "url": "https://github.com/mvberg/grunt-injector/issues"
   },
   "license": "MIT",
   "main": "Gruntfile.js",
